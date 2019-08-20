@@ -1,3 +1,17 @@
+# Clicky-Game
+
+<img width="1361" alt="Screen Shot 2019-08-19 at 5 53 48 PM" src="https://user-images.githubusercontent.com/45779399/63308767-cd437800-c2b9-11e9-8491-44de8abe6616.png">
+
+
+## Live Demo
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://still-scrubland-60871.herokuapp.com)
+
+Video
+https://drive.google.com/open?id=1pc-ay_RQ0G5sCWoATAT5z-XOz2fXtvrY
+
+____________________________________________________________________________________________________________________
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
